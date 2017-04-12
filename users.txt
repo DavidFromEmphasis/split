@@ -1,2 +1,2 @@
-0,david
-1,roman
+0,dummy1
+1,dummy2
