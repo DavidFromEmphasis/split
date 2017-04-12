@@ -8,8 +8,6 @@
  
  
 ## Installation
- Download all files
- 
- sdsdsd
- 
- sdsd
+ - Download all files
+ - sdsdsd
+ - sdsd
