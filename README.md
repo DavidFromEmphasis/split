@@ -8,6 +8,7 @@
  
  
 ## Installation
- * Download all files
- * sdsdsd
- * sdsd
+ 1. Download all files
+ 2. Upload to server
+ 3. Edit user and index file (options below)
+ 4. Create the first posting before you delete default postings
